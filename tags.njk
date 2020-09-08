@@ -15,9 +15,14 @@ renderData:
   title: {{ tag }}
 permalink: /{{ tag }}/
 ---
+{% set postslist = collections[ tag ] %}
+
 <h1>{{ tag | capitalize}}</h1>
 
-{% set postslist = collections[ tag ] %}
-{% include "postslist.njk" %}
+{% if 'muziek' in tag %}
+  {% include "muzieklist.njk" %}
+{% else %}
+  {% include "postslist.njk" %}
+{% endif %}
 
 {# <p>See <a href="{{ '/tags/' | url }}">all tags</a>.</p> #}
