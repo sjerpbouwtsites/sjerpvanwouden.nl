@@ -1,0 +1,21 @@
+body {
+  min-height: calc(100vh);
+  margin-bottom: 150px;
+}
+
+.site-footer {
+  position: fixed;
+  background-color: #f3f3f3;
+  width: 100%;
+  bottom: 0;
+  padding: 15px;
+  display: flex; 
+  flex-direction: column;
+  justify-content: space-around;
+  height: 150px;
+}
+
+.site-footer p {
+  text-align: center;
+  margin: 0;
+}
