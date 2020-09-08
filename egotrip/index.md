@@ -1,9 +1,9 @@
 ---
 layout: layouts/post.njk
-title: Wie is Sjerp
+title: Wie is Sjerp van Wouden?
 templateClass: tmpl-post
 eleventyNavigation:
-  key: wie-is-sjerp
+  key: Sjerp?
   order: 3
 ---
 
