@@ -1,15 +1,15 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Sjerps blog",
+  "url": "https://sjerpvanwouden.nl/",
+  "description": "Socialisme / Dev / Mokum / Metal",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Socialisme / Dev / Mokum / Metal",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://sjerpvanwouden.nl/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Sjerp van Wouden",
+    "email": "ik@sjerpvanwouden.nl"
   }
 }
