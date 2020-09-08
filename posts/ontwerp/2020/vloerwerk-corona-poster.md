@@ -4,7 +4,7 @@ description: Eindelijk verzet tegen Corona
 date: 2020-08-05
 tags:
   - ontwerp
-  - socialisme
+  - actie
 layout: layouts/post.njk
 ---
 

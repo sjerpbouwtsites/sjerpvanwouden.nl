@@ -4,7 +4,7 @@ description: Meest klassebewuste sticker 2020
 date: 2020-04-10
 tags:
   - ontwerp
-  - socialisme
+  - actie
 layout: layouts/post.njk
 ---
 
