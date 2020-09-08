@@ -21,6 +21,8 @@ permalink: /{{ tag }}/
 
 {% if 'muziek' in tag %}
   {% include "muzieklist.njk" %}
+{% elseif 'programmeren' in tag %}
+  {% include "programmerenlist.njk" %}  
 {% else %}
   {% include "postslist.njk" %}
 {% endif %}
