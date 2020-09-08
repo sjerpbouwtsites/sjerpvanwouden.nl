@@ -1,10 +1,10 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: Wie is Sjerp
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: wie-is-sjerp
   order: 3
 ---
 
-I am a person that writes stuff.
+Te schrijven
