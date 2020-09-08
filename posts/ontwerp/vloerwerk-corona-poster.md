@@ -10,7 +10,7 @@ layout: layouts/post.njk
 
 {{currentPost}}
 
-<p>Vet goede poster. Eindelijk een verzet van werkenden tegen Corona! Fijn dat iemand dat heeft gemaakt... Vertel er later meer over. <br> Wil je ze hebben, <a href='info@sjerpbouwtsites.nl'>mail me dan</a>.</p>
+<p>Vet goede poster. Eindelijk een verzet van werkenden tegen Corona! Fijn dat iemand dat heeft gemaakt... Vertel er later meer over. <br> Wil je ze hebben, <a href='mailto:info@sjerpbouwtsites.nl'>mail me dan</a>.</p>
 
 <p>Ik maak ooit nog een beter template. Ik heb nu geen template voor ontwerp.</p>
 

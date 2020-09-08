@@ -10,7 +10,7 @@ layout: layouts/post.njk
 
 {{currentPost}}
 
-<p>Superleuke sticker. Vertel er later meer over. <br>Corona gooide roet in het eten van landelijke verspreiding.<br> Wil je ze hebben, <a href='info@sjerpbouwtsites.nl'>mail me dan</a>.</p>
+<p>Superleuke sticker. Vertel er later meer over. <br>Corona gooide roet in het eten van landelijke verspreiding.<br> Wil je ze hebben, <a href='mailto:info@sjerpbouwtsites.nl'>mail me dan</a>.</p>
 
 <p>Ik maak ooit nog een beter template. Ik heb nu geen template voor ontwerp.</p>
 
