@@ -10,14 +10,16 @@ pagination:
     - posts
     - tagList
   addAllPagesToCollections: true
-layout: layouts/home.njk
-renderData:
-  title: {{ tag | capitalize}}
-permalink: /{{ tag }}/
+  layout: layouts/home.njk
+  permalink: /posts/ontwerp/
+  eleventyNavigation:
+    key: /posts/ontwerp/
+    order: 4
 ---
-<h1>{{ tag | capitalize}}</h1>
+
+<h1>Ontwerpen</h1>
 
 {% set postslist = collections[ tag ] %}
 {% include "postslist.njk" %}
 
-{# <p>See <a href="{{ '/tags/' | url }}">all tags</a>.</p> #}
+<p>See <a href="{{ '/tags/' | url }}">all tags</a>.</p>
